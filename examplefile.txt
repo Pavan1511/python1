@@ -1,8 +1,0 @@
-Hey
-This is Pavan,
-here we are going to see how to deals with files in python. 
-
-you will see this is you have successfully ran this file.
-
-Best regards
-Pavan
