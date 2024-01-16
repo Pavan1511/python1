@@ -10,8 +10,8 @@ Author: Pavan D
 [![Hello World, I'm Pavan!](assets/header.gif)](https://github.com/Pavan1511)
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pavandyo@gmail.com?subject=Hello%20Pavan,%20From%20Github)
 
 </div>
@@ -36,8 +36,8 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 ## 🏆 My Stats:
 
 <p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kshyun28&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshyun28&layout=compact&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Pavan1511&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan1511&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
 
