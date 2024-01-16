@@ -17,7 +17,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 </div>
 
 - 🔭 I’m currently working at [TCS](https://www.linkedin.com/company/TCS/)
-- 🌱 I’m passionate about [Saleforce](https://www.salesforce.com/in/) and [Web3](https://ethereum.org/en/web3/).
+- 🌱 I’m passionate about [Salesforce](https://www.salesforce.com/in/) and [Web3](https://ethereum.org/en/web3/).
 - 📝 I’m aiming to write **one file per week** starting from January 2024.
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
 - ⚡ Fun fact: I read books.
