@@ -8,7 +8,7 @@ Author: Pavan D
 <div align="center">
 
 [![Hello World, I'm Pavan!](assets/header.gif)](https://github.com/Pavan1511)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+Background GIF by [steemit.com](https://www.pinterest.com/pin/702491241888386525/) on [Pinterest](https://www.pinterest.com/).
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/) &nbsp;
